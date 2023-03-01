@@ -25,9 +25,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/style.css",
+              "src/assets/bootstrap.css",
+              "src/assets/bootstrap-grid.css",
+              "src/assets/bootstrap-reboot.css",
+              "src/assets/animate.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/main.js",
+              "src/assets/easing.js",
+              "src/assets/contact.js"
+            ]
           },
           "configurations": {
             "production": {
